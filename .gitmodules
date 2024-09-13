@@ -1,0 +1,6 @@
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/AliAlYaman/Estatein-Frontend.git
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/AliAlYaman/Estatein-Backend.git
